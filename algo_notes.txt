@@ -1,0 +1,31 @@
+ content based fileter:
+	reccomends based on history of prefs and behaviors 
+	
+	have to keep users data for training ( search, browser, purchase, etc.) 
+	
+	reccomends items similair to the ones the user has interacted with before
+
+
+	mgiht be good for discovering, feature: try this based on trending and interest
+
+collaborative filtering:
+	clumps up users and recs based on similair user's data
+	might be good since not much data atm and clump up similair users 
+	
+	reccomends things that one user has watched or used to others in the clump 
+
+	look into user user ad item item collaborative filtering 
+
+hybrid systems:
+	use a combination of both: 
+		content based filtering to rec items similair user has interacted with before 
+		collab filtering to rec similair user likes
+	
+
+
+might use hybrid system 
+
+use k nearest neighbores to begin doing some testing 
+
+
+just find some data to test rec algo
